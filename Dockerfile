@@ -1,8 +1,8 @@
 FROM node:12.22.1-alpine
 
 LABEL version="1.2.2"
-LABEL repository="https://github.com/w9jds/firebase-action"
-LABEL homepage="https://github.com/w9jds/firebase-action"
+LABEL repository="https://github.com/Commazero/firebase-action"
+LABEL homepage="https://github.com/Commazero/firebase-action"
 LABEL maintainer="Jeremy Shore <w9jds@github.com>"
 
 LABEL com.github.actions.name="GitHub Action for Firebase"
