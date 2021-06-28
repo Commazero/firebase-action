@@ -1,9 +1,9 @@
 FROM node:12.22.1-alpine
 
 LABEL version="1.2.2"
-LABEL repository="https://github.com/Commazero/firebase-action"
-LABEL homepage="https://github.com/Commazero/firebase-action"
-LABEL maintainer="Jeremy Shore <w9jds@github.com>"
+LABEL repository="https://github.com/commazero/firebase-action"
+LABEL homepage="https://github.com/commazero/firebase-action"
+LABEL maintainer="Dillon Erhardt <dillon@usecomma.com>"
 
 LABEL com.github.actions.name="GitHub Action for Firebase"
 LABEL com.github.actions.description="Wraps the firebase-tools CLI to enable common commands."
